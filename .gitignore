@@ -3,3 +3,4 @@ bin
 ENV
 .Python
 venv
+*.pyc
